@@ -1,0 +1,1045 @@
+[{
+  "_id": {
+    "$oid": "682bed8d0a39214f1fa2f63e"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-05-20T02:48:45.467Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T02:48:45.481Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682bf8e40a39214f1fa2f770"
+  },
+  "first_name": "Jenny Bebz",
+  "middle_name": "T",
+  "last_name": "Monserate",
+  "barangay": "Barangay Rizal",
+  "purok": "Matagoy",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2000-08-10T00:00:00.000Z"
+  },
+  "age": 24,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "High School Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Employee",
+  "employment_category": "Government",
+  "employment_type": "Permanent/Regular",
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-05-20T03:37:08.980Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T03:37:08.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682bfdf20a39214f1fa2f7a7"
+  },
+  "first_name": "Mary",
+  "middle_name": "June",
+  "last_name": "Gallano",
+  "barangay": "Barangay Lantad",
+  "purok": "Mapisanon",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2002-10-21T00:00:00.000Z"
+  },
+  "age": 22,
+  "gender": "Female",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Employee",
+  "employment_category": "Government",
+  "employment_type": "Seasonal",
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-05-20T03:58:42.460Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T03:58:42.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682bffac0a39214f1fa2f7ad"
+  },
+  "first_name": "Charles",
+  "middle_name": "Andre",
+  "last_name": "Alde",
+  "barangay": "Barangay Guinhalaran",
+  "purok": "Baybayon",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-06-25T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "College Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Self-employed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "No",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "In School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-05-20T04:06:04.107Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T04:06:04.108Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c16a9c16c2d555f764e47"
+  },
+  "first_name": "John Paul",
+  "middle_name": "Pakak",
+  "last_name": "Ignacio",
+  "barangay": "Barangay Hawaiian",
+  "purok": "Colisap",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-03-24T00:00:00.000Z"
+  },
+  "age": 22,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-05-20T05:44:09.727Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T05:44:09.729Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f7d911e2f259741cac3eee"
+  },
+  "first_name": "CHARLES IVAN",
+  "middle_name": "COLADO",
+  "last_name": "MONSERATE",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-10-14T00:00:00.000Z"
+  },
+  "age": 22,
+  "gender": "Male",
+  "place_of_birth": "SILAY CITY",
+  "education_level": "College Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "No",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [],
+  "youth_classification_other": null,
+  "youth_age_group": [],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-21T19:03:45.803Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-21T19:03:45.806Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f7da25e2f259741cac3ef1"
+  },
+  "first_name": "CHARLES IVAN",
+  "middle_name": "COLADO",
+  "last_name": "MONSERATE",
+  "barangay": "Barangay Rizal",
+  "purok": "Paradise",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-10-14T00:00:00.000Z"
+  },
+  "age": 22,
+  "gender": "Male",
+  "place_of_birth": "SILAY CITY",
+  "education_level": "High School Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Employee",
+  "employment_category": "Government",
+  "employment_type": "Permanent/Regular",
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-21T19:08:21.903Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-21T19:08:21.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900e5bc678f3d5e93017aba"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T15:48:12.488Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T15:48:12.492Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900e5e8beaed75b444d04a2"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T15:48:56.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T15:48:56.131Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900ece6586167bcd7b5081e"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T16:18:46.194Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T16:18:46.195Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900eec8a1e185cb881fd539"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T16:26:48.048Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T16:26:48.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900f02379d462b125fdc76f"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T16:32:35.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T16:32:35.527Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900f2ee5edd801a423488c9"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T16:44:30.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T16:44:30.260Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900f518cd5fc74c4a96372d"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T16:53:44.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T16:53:44.622Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900f78377e5982a3792b0b4"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T17:04:03.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T17:04:03.551Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6900fec790e7bc79b38aa7ab"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T17:35:03.083Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T17:35:03.084Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690103aa7d94ee2b314eea84"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T17:55:54.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T17:55:54.588Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69010c676e0813740623c432"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-28T18:33:11.933Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-28T18:33:11.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69017a29b9052cfc3d94018f"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-29T02:21:29.957Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T02:21:29.959Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69017ccdb9052cfc3d9401d4"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "C",
+  "last_name": "Monserate",
+  "barangay": "Barangay 4",
+  "purok": "Gomez Extension",
+  "contact": "09675423131",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-10-29T02:32:45.690Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-29T02:32:45.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691370228003ccd87ce81c36"
+  },
+  "first_name": "JEAN ROSHAN",
+  "middle_name": "MAGBANUA",
+  "last_name": "URBANO",
+  "barangay": "Barangay 3",
+  "purok": "Paghida.et B",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-12-19T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Female",
+  "place_of_birth": "Silay City",
+  "education_level": "College Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Child Youth (15−17 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-11-11T17:19:30.773Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T17:19:30.775Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6913799281041471de353f74"
+  },
+  "first_name": "Charles Ivan",
+  "middle_name": "Colado",
+  "last_name": "Monserate",
+  "barangay": "Barangay Lantad",
+  "purok": "Mapisanon",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-12-19T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "High School Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "No",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Child Youth (15−17 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-11-11T17:59:46.294Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-11T17:59:46.311Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "691417e41c99ef3488bb7036"
+  },
+  "first_name": "MARIAM",
+  "middle_name": "MERCURIO",
+  "last_name": "CASTANDIELLO",
+  "barangay": "Barangay 4",
+  "purok": "Antilla Subd",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-10-14T00:00:00.000Z"
+  },
+  "age": 22,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "High School Graduate",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Employee",
+  "employment_category": "Government",
+  "employment_type": "Permanent/Regular",
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "Out of School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Child Youth (15−17 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-11-12T05:15:16.187Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-12T05:15:16.199Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6928076a238a735298beae20"
+  },
+  "first_name": "Thea Isabela",
+  "middle_name": "C",
+  "last_name": "Lanang",
+  "barangay": "Barangay Rizal",
+  "purok": "Matagoy",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "2003-12-10T00:00:00.000Z"
+  },
+  "age": 21,
+  "gender": "Male",
+  "place_of_birth": "Silay City",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Employee",
+  "employment_category": "Government",
+  "employment_type": "Permanent/Regular",
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "In School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Child Youth (15−17 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "createdAt": {
+    "$date": "2025-11-27T08:10:18.582Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-27T08:10:18.599Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6929b0d05c026981c1fcdc63"
+  },
+  "first_name": "TESTING",
+  "middle_name": "TEST",
+  "last_name": "LANG",
+  "barangay": "Barangay Hawaiian",
+  "purok": "Phison",
+  "contact": "09464519088",
+  "birthday": {
+    "$date": "1994-11-29T00:00:00.000Z"
+  },
+  "age": 31,
+  "gender": "Male",
+  "place_of_birth": "CATHOLIC",
+  "education_level": "Elementary Level",
+  "registered_sk": "Yes",
+  "voted_sk": "Yes",
+  "registered_national": "Yes",
+  "employment_status": "Unemployed",
+  "employment_category": null,
+  "employment_type": null,
+  "Assembly": "Yes",
+  "sk_times": null,
+  "reason": null,
+  "youth_classification": [
+    "In School Youth"
+  ],
+  "youth_classification_other": null,
+  "youth_age_group": [
+    "Core Youth (18−24 yrs old)"
+  ],
+  "youth_age_group_other": null,
+  "status": "Archived",
+  "createdAt": {
+    "$date": "2025-11-28T14:25:20.249Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T14:25:20.253Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,440 @@
+[{
+  "_id": {
+    "$oid": "68131f49453e5998bff27736"
+  },
+  "name": "Charles Ivan C. Monserate",
+  "email": "ivancharles389@gmail.com",
+  "password": "$2b$10$gjcaBz4HskYRXoS.dIZw1em0HL6spJzR4XA9l1poOEg/1Lbcueib6",
+  "role": "Staff",
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "68131fc6453e5998bff2773a"
+  },
+  "name": "Monserate, Charles Ivan C.",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$ATcty0512XM8u8yU52FDeue.VtaLCG5qeKJqga5NPmMd7Ni8uqhMi",
+  "role": "Admin",
+  "__v": 0,
+  "status": "Active"
+},
+{
+  "_id": {
+    "$oid": "681efe938bfbf9dbca926875"
+  },
+  "name": "CHARLES IVAN C. MONSERATE",
+  "email": "monseratecharles@gmail.com",
+  "password": "$2b$10$NbPP7BjfxP3gltzghii9decUyZMNxu7f58b752b1PNOTlg7.FEz4y",
+  "role": "Staff",
+  "__v": 0,
+  "status": "Inactive"
+},
+{
+  "_id": {
+    "$oid": "6824ce5f1dcee964fe169b01"
+  },
+  "name": "staff",
+  "email": "staff@example.com",
+  "password": "$2b$10$.WK4ifZ.xqQNtAnvxOGD3uyewdykNXl4ivhGtkweh/STSgbp64hlS",
+  "role": "Staff",
+  "__v": 0,
+  "status": "Inactive"
+},
+{
+  "_id": {
+    "$oid": "6824ce8d1dcee964fe169b1b"
+  },
+  "name": "admin",
+  "email": "admin@example.com",
+  "password": "$2b$10$dquqoFEQHEsoh1qDFK5LXeYTsZBOMnd93TvXhM2UlYnQMlLiNI/qm",
+  "role": "Admin",
+  "__v": 0,
+  "status": "Inactive"
+},
+{
+  "_id": {
+    "$oid": "68257736c25b8beb459b1f64"
+  },
+  "name": "staff",
+  "email": "staff@gmail.com",
+  "password": "$2b$10$VU4GjA/VSuWohZbDf1YuBOH2sgvVAajM0QHarlKuSSky05FD4EHju",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68257774c25b8beb459b1f72"
+  },
+  "name": "admin",
+  "email": "admins@gmail.com",
+  "password": "$2b$10$eG348LNQOv/2EeYVObyaeuTC.FUAW4mWp.Yq6.4YOwgqnryTC9Jga",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68257798c25b8beb459b1f76"
+  },
+  "name": "superadmin",
+  "email": "superadmin@gmail.com",
+  "password": "$2b$10$r7YuM5p7uGAOas.aRF23i.4V7a4/O3Dvn0sMSrldgBpTPfrpY5YrG",
+  "role": "Super Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682ac6a4c44a72023710d71d"
+  },
+  "name": "Jen Chome",
+  "email": "jenchm@gmail.com",
+  "password": "$2b$10$f6.7.NBHSEygDBTWpYb4wOlus0PGaVIoPHSuuE0JBJPELnBxeo2QC",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682ac8cbc44a72023710d722"
+  },
+  "name": "Thea Lanang",
+  "email": "thea123@gmail.com",
+  "password": "$2b$10$38J1o6dO9yPiLCoEKq4OCOFXXFSb0dBj6Fix0CkBl/dypGJ0.7FEe",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682b336bbcc90b982bf507c1"
+  },
+  "name": "Ic",
+  "email": "staffs@gmail.com",
+  "password": "$2b$10$IVbiEOltvYgmhaQ.wHBAyuYcaL/P4omo8U3Nip0HoW/3OVWK65v/q",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682b338dbcc90b982bf507c4"
+  },
+  "name": "thea",
+  "email": "adminss@gmail.com",
+  "password": "$2b$10$zG.QnbR5v6rRiHbJXkVyN.M9fI.G6LhAI5GxwNRvAO0rYj71GSQtO",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682b33abbcc90b982bf507c7"
+  },
+  "name": "jen",
+  "email": "superadmins@gmail.com",
+  "password": "$2b$10$Tckf7jpuHf6kB/0n.2PYmu5Ibk7FsYll82TLHQw6BZJ1KWW3mMO9K",
+  "role": "Super Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682b33c3bcc90b982bf507ca"
+  },
+  "name": "bebz",
+  "email": "youths@gmail.com",
+  "password": "$2b$10$ItVrMqDgv7Z2emj4qa7T/ObVYtwJYlVmUwoPmWq9VG4fYbaMssGuq",
+  "role": "Youth",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c0df6486401db9ff9ea8c"
+  },
+  "name": "charles",
+  "email": "staffss@gmail.com",
+  "password": "$2b$10$w8154B3XOnolVIuPCD43wOXm20gOmJGhJPBK0gqhua7EnrXzqvbWq",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c0e15486401db9ff9ea8f"
+  },
+  "name": "admin",
+  "email": "adminsss@gmail.com",
+  "password": "$2b$10$4zkuahhCLluEEV97yty0h.iltP7hZOXeJK2f8Vge25ud/DK.8Hnhi",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c0e38486401db9ff9ea92"
+  },
+  "name": "super",
+  "email": "superadminsss@gmail.com",
+  "password": "$2b$10$PxQ5nUv8F7yGyP1./TnG.O00K9tF2D6q3oo1fTcftFsTXTnNN0LWW",
+  "role": "Super Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682c0e51486401db9ff9ea95"
+  },
+  "name": "youth",
+  "email": "youthss@gmail.com",
+  "password": "$2b$10$oAch19ylpaNxXv51QtglVuPDR6BNNUm7vh6IJLket/3AjN/aDIsQ.",
+  "role": "Youth",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a092214d8cfce2f87813"
+  },
+  "name": "IC",
+  "email": "staff_001@gmail.com",
+  "password": "$2b$10$LXSyuvM/3JvjVxQihdEuxOUHA99QdJ37iMTGi6/xXg/G1YdK/KKza",
+  "role": "Staff",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a0ef214d8cfce2f87816"
+  },
+  "name": "Jen",
+  "email": "Admin_001@gmail.com",
+  "password": "$2b$10$PUm3UfFoBZKXmEr4HkxKR.PXhKMLNFgPYszoaGmXXqjIwss6IcqyC",
+  "role": "Admin",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a14c214d8cfce2f87819"
+  },
+  "name": "Thea",
+  "email": "Superadmin_001@gmail.com",
+  "password": "$2b$10$1RPYTaeTw2BXSNgq5kBLOOkan2JM6objE6OZCQ1e4oA6O3e30HIbK",
+  "role": "Super Admin",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68d2a191214d8cfce2f8781c"
+  },
+  "name": "Bebz",
+  "email": "Youth_001@gmail.com",
+  "password": "$2b$10$UYw.Otjrgkm1ndUH5VIH.eZt171etrNIKTjgUq2JjdRMdv8hNk6Xu",
+  "role": "Youth",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f64b8c4070143dd898a01d"
+  },
+  "name": "Thea",
+  "email": "thea@gmail.com",
+  "password": "$2b$10$gkQWxrWtfGrGs9nu.fCafOtN4Xj2hPs4wwM87KWmUy1yQbhBqx3ty",
+  "role": "Youth",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f6522a4d1b6bb1eb4bcec0"
+  },
+  "name": "Ivans",
+  "email": "Ivan123@gmail.com",
+  "password": "$2b$10$faKB/tzIcnEhACx53fLmOOXHr7QgvNh5F.dxUgJq4npcoNnFlf.py",
+  "role": "Youth",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f71bd00e67fdcea4b35f7c"
+  },
+  "name": "Van Dough",
+  "email": "Van@gmail.com",
+  "password": "$2b$10$qWyL/X90cXJxQmlLvEvrtetg.LiKuFleIE6HF3i27oI1JpIt0BIE.",
+  "role": "Staff",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68f838924ce6802cc91e78c2"
+  },
+  "name": "Angel Mae",
+  "email": "angelmae@gmail.com",
+  "password": "$2b$10$dEBTVfN5zmZBgLSc1w9hUeaPnT7JfHg8ZdswS2vfIdXvJFr77fTIa",
+  "role": "Staff",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6901192fb352a22dcf492115"
+  },
+  "name": "Test Staff 1761679660480",
+  "email": "teststaff1761679660480@gmail.com",
+  "password": "$2b$10$mzqpkVhMvGrc0DPt9lHln.tBMUVCziZKi2bo00gmLgfwPSZzA6.Cq",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011934b352a22dcf49211c"
+  },
+  "name": "Test Admin 1761679666024",
+  "email": "testadmin1761679666024@gmail.com",
+  "password": "$2b$10$l21P.CEycBw7rjl9OzKI.eFpioouDuKTsHuFEYyOENo/oFbRXRb86",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6901193ab352a22dcf492123"
+  },
+  "name": "Test Youth 1761679671430",
+  "email": "testyouth1761679671430@gmail.com",
+  "password": "$2b$10$nA/nlKoWoqaefF9zw3DLduY8cvApgao5YyafqAjsrUMYdmNMe9wBO",
+  "role": "Youth",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011949b352a22dcf492132"
+  },
+  "name": "Test Staff 1761679686735",
+  "email": "teststaff1761679686735@gmail.com",
+  "password": "$2b$10$17b/PpvoYw4HNG6cJdIO..mq.jEC2DnA8uGj69GyeIGIFWcc2kjca",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690119ccc0a2b81695088735"
+  },
+  "name": "Test Staff 1761679818067",
+  "email": "teststaff1761679818067@gmail.com",
+  "password": "$2b$10$QNyy5HugpFOqimTJRBPpVuJjYKdIFNNBWZ4HCluAdv7gLfFOQNgGW",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690119d1c0a2b8169508873c"
+  },
+  "name": "Test Admin 1761679823246",
+  "email": "testadmin1761679823246@gmail.com",
+  "password": "$2b$10$RCBnnT69ml5/exvnxUftyOIc0fUdM/DCY0rZRjQXTXc4HyNp3Dspy",
+  "role": "Admin",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690119d6c0a2b81695088743"
+  },
+  "name": "Test Youth 1761679828214",
+  "email": "testyouth1761679828214@gmail.com",
+  "password": "$2b$10$SDsCSWtzfv8Oq4G3uWXCteWntP7X7I5KMEWG9upYKZNsRSxDPtTsu",
+  "role": "Youth",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "690119e6c0a2b81695088752"
+  },
+  "name": "Test Staff 1761679844163",
+  "email": "teststaff1761679844163@gmail.com",
+  "password": "$2b$10$.3356hAUdg0Uaioos3gf..HpXKiY4TnwyxOjMCQJbXaS1d0i71SF.",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011a321eeb1c3463cc701e"
+  },
+  "name": "Test Staff 1761679920345",
+  "email": "teststaff1761679920345@gmail.com",
+  "password": "$2b$10$kjky7r7I7350nPX2XNHfruGoABukQDNXQ995C6oVHjOVYfHvYhD.y",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011a381eeb1c3463cc7025"
+  },
+  "name": "Test Admin 1761679925602",
+  "email": "testadmin1761679925602@gmail.com",
+  "password": "$2b$10$A5EwpsAnzEUQ.Po9gx2eB.u1Rir92lMgElyA0lAhhDtpY2RXrZCJa",
+  "role": "Admin",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011a3d1eeb1c3463cc702c"
+  },
+  "name": "Test Youth 1761679930800",
+  "email": "testyouth1761679930800@gmail.com",
+  "password": "$2b$10$JKJHFtLGz/R.3WYxcaeCn.NymkyULwnsbEQgDS885GvBNjSXH7UxG",
+  "role": "Youth",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69011a4d1eeb1c3463cc703b"
+  },
+  "name": "Test Staff 1761679946629",
+  "email": "teststaff1761679946629@gmail.com",
+  "password": "$2b$10$SKgFUryGoNZQVVC.IT1cJ.c043DkCOuD.ggyUO.dBmOOVhXHqESje",
+  "role": "Staff",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "69018261b9052cfc3d94065b"
+  },
+  "name": "Test Admin 1761706590739",
+  "email": "testadmin1761706590739@gmail.com",
+  "password": "$2b$10$tHt7VtL.YJeE.UV4ixiAqOV.N43Opqmk0tl7/4aPzvYPv1GmyqYGO",
+  "role": "Admin",
+  "status": "Active",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6922034d29c1404a768661e8"
+  },
+  "name": "Christelle C. Monserate",
+  "email": "christellemonserate@gmail.com",
+  "password": "$2b$10$BkelVP.87D6Fo5gx.RFRAeoZ5gwSyKuOAUdJ.YntIFEh4/fQsWKBa",
+  "role": "Staff",
+  "status": "Inactive",
+  "__v": 0
+}]

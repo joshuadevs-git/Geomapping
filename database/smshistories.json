@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "6929a9345c026981c1fcdb24"
+  },
+  "recipient_type": "PWD",
+  "record_id": {
+    "$oid": "682b4291a023ce6b760f3ef1"
+  },
+  "phone_number": "09464519088",
+  "first_name": "CHRISTELLE ANNE",
+  "middle_name": "COLADO",
+  "last_name": "MONSNERATE",
+  "barangay": "Barangay Guimbalaon",
+  "purok": "New Site",
+  "message": "Hello!You are eligible for PWD benefits Visit your local office to claim.Thank you!",
+  "status": "sent",
+  "sent_by": "Unknown",
+  "sent_at": {
+    "$date": "2025-11-28T13:52:52.573Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-28T13:52:52.581Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T13:52:52.581Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6929a9b65c026981c1fcdb98"
+  },
+  "recipient_type": "Senior",
+  "record_id": {
+    "$oid": "682bf2660a39214f1fa2f69c"
+  },
+  "phone_number": "09464519088",
+  "first_name": "Jenny",
+  "middle_name": "Bebz",
+  "last_name": "Chome",
+  "barangay": "Barangay Mambulac",
+  "purok": "Paghidaet",
+  "message": "Hello!You are eligible for PWD benefits Visit your local office to claim.Thank you!",
+  "status": "sent",
+  "sent_by": "Unknown",
+  "sent_at": {
+    "$date": "2025-11-28T13:55:02.822Z"
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2025-11-28T13:55:02.823Z"
+  },
+  "updatedAt": {
+    "$date": "2025-11-28T13:55:02.823Z"
+  }
+}]

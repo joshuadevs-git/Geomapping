@@ -1,0 +1,207 @@
+[{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf564"
+  },
+  "barangay": "Barangay 1",
+  "puroks": [
+    "Kamagong",
+    "Narra",
+    "Ipil-Ipil",
+    "Akasya",
+    "Flying-E"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf565"
+  },
+  "barangay": "Barangay 2",
+  "puroks": [
+    "Gomez",
+    "Katipunan",
+    "Kahilwayan",
+    "Sool Uno",
+    "Sool Dos"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf566"
+  },
+  "barangay": "Barangay 3",
+  "puroks": [
+    "Paghida.et A",
+    "Paghida.et B",
+    "Ilimnan",
+    "Guintipunan",
+    "Mahigugmaon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf567"
+  },
+  "barangay": "Barangay 4",
+  "puroks": [
+    "Antilla Subd",
+    "Gomez Extension",
+    "Bonifacio Extension",
+    "Mckinley Bukid",
+    "Zulueta Bukid"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf568"
+  },
+  "barangay": "Barangay 5",
+  "puroks": [
+    "Elina subd",
+    "Portuna",
+    "St francis",
+    "Carmilla paste 3",
+    "Villa carmen"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf569"
+  },
+  "barangay": "Barangay Mambulac",
+  "puroks": [
+    "Paghidaet",
+    "Antoni Luna",
+    "Swimming Pool",
+    "Boulevard",
+    "Barra"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56a"
+  },
+  "barangay": "Barangay Guinhalaran",
+  "puroks": [
+    "Katilingban",
+    "Sawmill",
+    "Paghidait",
+    "Mangingisda",
+    "Baybayon"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56b"
+  },
+  "barangay": "Barangay E-Lopez",
+  "puroks": [
+    "Sunshine",
+    "Sunrise",
+    "Sunset",
+    "Sampaguita",
+    "Newsite"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56c"
+  },
+  "barangay": "Barangay Bagtic",
+  "puroks": [
+    "Proper",
+    "New site",
+    "Bagtic Uno",
+    "Kalbaryo",
+    "Defuigo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56d"
+  },
+  "barangay": "Barangay Balaring",
+  "puroks": [
+    "Camunsilan",
+    "Proper",
+    "Bungol",
+    "Hda Balaring",
+    "Pasil"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56e"
+  },
+  "barangay": "Barangay Hawaiian",
+  "puroks": [
+    "Colisap",
+    "Phison",
+    "Balas",
+    "Lunot",
+    "Sandiego"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf56f"
+  },
+  "barangay": "Barangay Patag",
+  "puroks": [
+    "Mahigugmaon",
+    "Malipayun",
+    "Mainabyanon",
+    "Marka"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf570"
+  },
+  "barangay": "Barangay Kapt. Ramon",
+  "puroks": [
+    "Hda.Adoracion",
+    "Hda.Boac",
+    "Hda.Progreso",
+    "Hda.Banita Jarra",
+    "Hda.Violata"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf571"
+  },
+  "barangay": "Barangay Guimbalaon",
+  "puroks": [
+    "Proper",
+    "New Site",
+    "Bagtic Uno",
+    "Kalbaryo",
+    "Defuigo"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf572"
+  },
+  "barangay": "Barangay Rizal",
+  "puroks": [
+    "Matagoy",
+    "Paradise",
+    "Kalubihan",
+    "Baryo Rizal",
+    "Hda Makina"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6819c93aaf05879766fcf573"
+  },
+  "barangay": "Barangay Lantad",
+  "puroks": [
+    "Mapisanon",
+    "Nami Nami",
+    "Bay-bay",
+    "Paraiso",
+    "Mainuswagon"
+  ]
+}]
